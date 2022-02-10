@@ -151,14 +151,6 @@ namespace HomeWork3_2
                 Console.WriteLine("Wrong input! Input must be yes or no!!!");
             }
         }
-
-        //public static void ExitFromProrgam()
-        //{
-        //    Console.WriteLine("Do you want to Stop? Yes");
-        //    string answer = Console.ReadLine();
-        //    if (answer == "Yes" || answer == "yes")
-        //        Environment.Exit(1);
-        //}
     }
 
 }
