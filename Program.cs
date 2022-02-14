@@ -10,7 +10,9 @@ namespace HomeWork4
     {
         static void Main(string[] args)
         {
-            var persons = new Person[2];
+            Console.WriteLine("Enter number of persons: ");
+            int a = Convert.ToInt32(Console.ReadLine());
+            var persons = new Person[a];
             for (int i = 0; i < persons.Length; i++)
             {
                 persons[i] = Person.Input(i);
