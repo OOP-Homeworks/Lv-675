@@ -1,0 +1,16 @@
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.exe
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.deps.json
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.runtimeconfig.json
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.runtimeconfig.dev.json
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.dll
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\ref\Homework4 By Erik Frytskyi.dll
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\bin\Debug\net5.0\Homework4 By Erik Frytskyi.pdb
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.csproj.AssemblyReference.cache
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.dll
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\ref\Homework4 By Erik Frytskyi.dll
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.pdb
+C:\Users\Erik\source\repos\Homework4 By Erik Frytskyi\Homework4 By Erik Frytskyi\obj\Debug\net5.0\Homework4 By Erik Frytskyi.genruntimeconfig.cache
