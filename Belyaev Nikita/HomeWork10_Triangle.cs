@@ -8,9 +8,9 @@ namespace justCoding
 {
     public class Triangle
     {
-        private static double firstSide, secondSide, thirdSide;
-        private static Point p1, p2, p3;
-        private static double perimeter;
+        private double firstSide, secondSide, thirdSide;
+        private Point p1, p2, p3;
+        private double perimeter;
         public Triangle(Point a, Point b, Point c)
         {
             p1 = a;
